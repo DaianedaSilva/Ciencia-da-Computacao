@@ -9,3 +9,6 @@ Criado em Python o RPG teve o objetivo de treinar os comandos aprendidos logo no
 * For
 
 O RPG conta a história de um guerreiro que perdeu sua esposa e segue com sede de vingança querendo destruir seu rei.
+
+Link para o rodar o projeto no rep.it:
+* https://repl.it/join/pzneygek-daianeda
