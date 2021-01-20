@@ -1,2 +1,2 @@
 # Ciencia-da-Computacao
-Repositório destinado a guarda projetos da faculdade de ciência da computação.
+Repositório destinado para projetos da faculdade de Ciência da Computação.
