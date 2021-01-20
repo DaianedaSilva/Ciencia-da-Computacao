@@ -4,8 +4,8 @@ Projeto feito para o primeiro semestre do curso de Ciência da Computação, des
 
 Criado em Python o RPG teve o objetivo de treinar os comandos aprendidos logo no inicio do semestre
 * If
-*Else
-*While
-*For
+* Else
+* While
+* For
 
 O RPG conta a história de um guerreiro que perdeu sua esposa e segue com sede de vingança querendo destruir seu rei.
