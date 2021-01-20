@@ -1,2 +1,3 @@
-# Ciencia-da-Computacao
-Repositório destinado a guarda projetos da faculdade de ciência da computação.
+# Buscando um nome em um arquivo
+
+Código em Python onde atravéz de uma função busca em um arquivo txt um item específico.
